@@ -1,70 +1,121 @@
+- name: Twist Boutique
+  image: twist.png
+  text: Home goods and consignments.
+  deal: 5% off with purchase of $50 or more.
+  link: http://www.twistconsignments.com
+  height: tall
+  width: 2
+
+- name: Salon84
+  image: salon84.png
+  text: Hair design, color, and day-spa services.
+  deal: 5% off with purchase of $50 or more.
+  link: https://salon84jasper.com/
+  height: tall
+  width: 2
+
+- name: Steve Moranos - Allstate Insurance
+  image: moranos-allstate.jpg
+  text: Steve Moranos - Allstate Insurance is an insurance agency located in Jasper, Georgia. We offer a wide range of insurance services to meet your needs.
+  deal: Save on bundles. No obligation quote.
+  link: https://agents.allstate.com/steve-moranos-marble-hill-ga.html
+  height: short
+  width: 2
+
+- name: Grease2Go
+  image: grease2go.png
+  text: Mobile mechanic offering a full range of auto repair services to the Big Canoe community and surrounding area.
+  deal: Free filter with oil change.
+  link: https://grease2go.com
+  height: short
+  width: 2
+
+- name: T-Mobile
+  image: t-mobile.jpg
+  text: The best nationwide mobile network.
+  deal: iPhone 16–Get 4 ON US. Plus, 4 new lines for $25/line.​​
+  link: https://www.t-mobile.com/cell-phone/apple-iphone-16?icid=MGPO_TMO_U_24APPLNPI_BCAA59D3DF26B51640811
+  height: short
+  width: 2
+
+- name: Lowe's Foods
+  image: lowesfoods.png  
+  text: Lowe's Foods is a grocery store located in Jasper, Georgia. We offer a wide range of grocery items to meet your needs.
+  deal: Free delivery when you spend $20 or more.
+  link: https://shop.lowesfoods.com/?_gl=1%2A10qgsyt%2A_gcl_au%2ANzMzNzEyMjk0LjE3MzA4Mjg3MjM.%2A_ga%2AMTkyMTE0NTMyMi4xNzMwODI4NzI0%2A_ga_JM4HBLSNQ9%2AMTczMDgyODcyNC4xLjEuMTczMDgyODg1MS4yMC4wLjA.
+  height: short
+  width: 2
+
 - name: Lucky Hare
   image: luckyhare.png
   text: Lucky Hare is the restaurant & bar you deserve. Enjoy Modern-American food made from locally sourced ingredients, wines from around the world, & hand-crafted cocktails.
+  deal: 5% off with purchase of $50 or more.
   link: https://luckyhare.com/
   height: tall
-  width: 4
+  width: 12
 
 - name: Jasper Drug
   image: jasper-drug.png
   text: Located at Foothills plaza inside Lowe's grocery.
+  deal: Free Flu Shots until Nov 25th.
   link: https://www.jasperdrug.com/
   height: tall
-  width: 1
+  width: 3
 
 - name: Polar Bear Ice Cream
   image: polarbearicecream.jpg
-  text: Get a hot dog, chips, and a drink for $5.00.
+  text: Ice cream, hot dogs, and more.
+  deal: Get a hot dog, chips, and a drink for just $5.
   link: https://www.facebook.com/polarbearicecreaminthegeorgiamountains
   height: tall
-  width: 1
+  width: 3
 
 - name: Feather & Stone
   image: feather-and-stone.jpg
   text: Women's apparel, accessories, and home decor.
   link: https://www.featherstonelifestyleboutique.com
   height: short
-  width: 1
+  width: 3
 
 - name: Red Barn Kennels
   image: RedBarnKennels.png
   text: Women's apparel, accessories, and home decor.
   link: https://www.featherstonelifestyleboutique.com
   height: short
-  width: 1
+  width: 3
 
 - name: North Gate Dentistry
   image: northgatedentistry.png
   text: North Gate Dentistry is a family dental practice located in Jasper, Georgia. We offer a wide range of dental services to meet your needs.
   link: https://www.ngatestationdental.com
-  height: tall
-  width: 2
+  height: short
+  width: 4
 
 - name: Tom's Awesome Seafood
   image: tomsawesomeseafood.jpg
   text: Tom's Awesome Seafood is a family owned and operated seafood market and restaurant located in Jasper, Georgia. We offer a wide range of seafood options.
   link: https://www.tomsawesomeseafood.com
   height: tall
-  width: 2
+  width: 4
 
 - name: EXP Realty - The North Georgia Group
   image: exp.jpg
   text: EXP Realty - The North Georgia Group is a real estate agency located in Jasper, Georgia. We offer a wide range of real estate services to meet your needs.
   link: https://seatosummitpropertygroup.com/big-canoe
   height: tall
-  width: 2
+  width: 4
 
 - name: Mountain Valley Farm Store
   image: mountainvalleyfarm.jpg
   text: Raised on Pasture in a Stress Free Environment & Handled Humanely Throughout All Life Stages.
   link: http://www.grassfedgeorgia.com
   height: tall
-  width: 1
+  width: 3
 
 - name: Ellijay Mushrooms
   image: ellijaymushrooms.png
   text: Family-owned sustainable mushroom farm dedicated to the cultivation of high quality, tasty, gourmet shiitake & oyster mushrooms.
   link: https://www.ellijaymushrooms.com
   height: tall
-  width: 1
+  width: 3
 
