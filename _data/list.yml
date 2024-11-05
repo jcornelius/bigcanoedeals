@@ -1,111 +1,70 @@
+- name: Lucky Hare
+  image: luckyhare.png
+  text: Lucky Hare is the restaurant & bar you deserve. Enjoy Modern-American food made from locally sourced ingredients, wines from around the world, & hand-crafted cocktails.
+  link: https://luckyhare.com/
+  height: tall
+  width: 4
+
 - name: Jasper Drug
-  biz: local
-  bld: local
-- name: Woodbridge Inn
-  biz: Canton
-  bld: Canton
-- name: First Mountain Tasting Room
-  biz: local
-  bld: Canton
-- name: Old Mulehouse
-  biz: partial
-  bld: partial
-- name: Red Bean Coffee
-  biz: local
-  bld: partial
-- name: Lollidrops Candy
-  biz: local
-  bld: local
-- name: Honeysuckle Florist
-  biz: local
-  bld: local
-- name: Daisy Boutique
-  biz: local
-  bld: local
-- name: 61 Main
-  biz: local
-  bld: local
-- name: Mari Mari Treats
-  biz: local
-  bld: Canton
-- name: Carriage House
-  biz: local
-  bld: local
-- name: Pendley Creek Brewing
-  biz: local
-  bld: local
-- name: LC Tacos
-  biz: Canton
-  bld: Canton
-- name: I Love NY Pizza
-  biz: Dahlonega
-  bld: Dahlonega
-- name: Designs on Main
-  biz: local
-  bld: local
-- name: Victor Nails
-  biz: local
-  bld: local
-- name: Bad Donkey Studio
-  biz: local
-  bld: Canton
-- name: Sharptop Distilling
-  biz: local
-  bld: local
-- name: Clocktower Gifts
-  biz: local
-  bld: local
-- name: Last Catch
-  biz: local
-  bld: ???
-- name: Walgreens
-  biz: Deerfield, IL
-  bld: Deerfield, IL
-- name: Tractor Supply Company
-  biz: Brentwood, TN
-  bld: Brentwood, TN
-- name: Garner ACE Harware
-  biz: local
-  bld: local
-- name: Whipple Dogs
-  biz: local
-  bld: local
-- name: The Lunch Box
-  biz: local
-  bld: local
-- name: Speedburger
-  biz: local
-  bld: local
-- name: Katie Elle Salon
-  biz: Ellijay
-  bld: local
-- name: Salon 84
-  biz: local
-  bld: local
-- name: Coach's Cuts
-  biz: local
-  bld: local
-- name: Sharptop Catering
-  biz: local
-  bld: local
-- name: Natural Market Place
-  biz: local
-  bld: local
-- name: Mary Ann's Country Cooking
-  biz: local
-  bld: local
-- name: Deb's Bakery
-  biz: local
-  bld: local
-- name: El Roble Mexican Restaurant
-  biz: ???
-  bld: ???
-- name: Vex-Go Cafe
-  biz: local
-  bld: ???
-- name: Rene&rqsuo;s Dominican Barbershop
-  biz: local
-  bld: ???
-- name: Dog Tired Relics
-  biz: local
-  bld: ???
+  image: jasper-drug.png
+  text: Located at Foothills plaza inside Lowe's grocery.
+  link: https://www.jasperdrug.com/
+  height: tall
+  width: 1
+
+- name: Polar Bear Ice Cream
+  image: polarbearicecream.jpg
+  text: Get a hot dog, chips, and a drink for $5.00.
+  link: https://www.facebook.com/polarbearicecreaminthegeorgiamountains
+  height: tall
+  width: 1
+
+- name: Feather & Stone
+  image: feather-and-stone.jpg
+  text: Women's apparel, accessories, and home decor.
+  link: https://www.featherstonelifestyleboutique.com
+  height: short
+  width: 1
+
+- name: Red Barn Kennels
+  image: RedBarnKennels.png
+  text: Women's apparel, accessories, and home decor.
+  link: https://www.featherstonelifestyleboutique.com
+  height: short
+  width: 1
+
+- name: North Gate Dentistry
+  image: northgatedentistry.png
+  text: North Gate Dentistry is a family dental practice located in Jasper, Georgia. We offer a wide range of dental services to meet your needs.
+  link: https://www.ngatestationdental.com
+  height: tall
+  width: 2
+
+- name: Tom's Awesome Seafood
+  image: tomsawesomeseafood.jpg
+  text: Tom's Awesome Seafood is a family owned and operated seafood market and restaurant located in Jasper, Georgia. We offer a wide range of seafood options.
+  link: https://www.tomsawesomeseafood.com
+  height: tall
+  width: 2
+
+- name: EXP Realty - The North Georgia Group
+  image: exp.jpg
+  text: EXP Realty - The North Georgia Group is a real estate agency located in Jasper, Georgia. We offer a wide range of real estate services to meet your needs.
+  link: https://seatosummitpropertygroup.com/big-canoe
+  height: tall
+  width: 2
+
+- name: Mountain Valley Farm Store
+  image: mountainvalleyfarm.jpg
+  text: Raised on Pasture in a Stress Free Environment & Handled Humanely Throughout All Life Stages.
+  link: http://www.grassfedgeorgia.com
+  height: tall
+  width: 1
+
+- name: Ellijay Mushrooms
+  image: ellijaymushrooms.png
+  text: Family-owned sustainable mushroom farm dedicated to the cultivation of high quality, tasty, gourmet shiitake & oyster mushrooms.
+  link: https://www.ellijaymushrooms.com
+  height: tall
+  width: 1
+

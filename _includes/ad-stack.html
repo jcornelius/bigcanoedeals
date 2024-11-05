@@ -1,0 +1,34 @@
+<div class="container">
+    <div class="row">
+        <!-- 
+            Loop through the data in list.yml and display each one as a card.
+            There are 3 columns in the grid. Cards can be 1, 2, or 3 columns wide.
+            Cards can also be "short" or "tall". Tall cards include text. Short cards are just an image.
+        -->
+        {% for item in site.data.list %}
+
+        {% if item.width == 1 %}
+            {% assign colWidth = "3" %}
+        {% elsif item.width == 2 %}
+            {% assign colWidth = "6" %}
+        {% elsif item.width == 3 %}
+            {% assign colWidth = "9" %}
+        {% else %}
+            {% assign colWidth = "12" %}
+        {% endif %}
+        <div class="ad-card col-{{ colWidth }}">
+            <div class="card">
+                <a href="{{ item.url }}"><img src="/images/client/{{ item.image }}" class="card-img-top" alt="{{ item.name }}"></a>
+                {% if item.height == "tall" %}
+                <div class="card-body">
+                    <p class="card-text">{{ item.text }}</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted"><a href="{{ item.link }}">Visit {{ item.name }}</a></small>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
