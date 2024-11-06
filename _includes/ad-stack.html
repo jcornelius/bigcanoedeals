@@ -6,7 +6,18 @@
             Cards can also be "short" or "tall". Tall cards include text. Short cards are just an image.
         -->
         {% for item in site.data.list %}
-        <div class="ad-card col-{{ item.width }}">
+
+        {% if item.width == 2 %}
+            {% assign columns = "col-6 col-md-2" %}
+        {% elsif item.width == 3 %}
+            {% assign columns = "col-6 col-md-3" %}
+        {% elsif item.width == 4 %}
+            {% assign columns = "col-6 col-md-6" %}
+        {% elsif item.width == "full" %}
+            {% assign columns = "col-12" %}
+        {% endif %}
+
+        <div class="ad-card {{ columns }}">
             <div class="card">
                 <a href="{{ item.url }}"><img src="/images/client/{{ item.image }}" class="card-img-top" alt="{{ item.name }}"></a>
                 {% if item.height == "tall" %}
